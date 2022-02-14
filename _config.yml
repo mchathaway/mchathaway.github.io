@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Madison Hathaway
 
 # Short bio or description (displayed in the header)
-description: A Short Description
+description: Biochemistry Undergraduate Student at Cal Poly, San Luis Obispo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/[mchathaway]/[mchathaway.github.io]/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -20,10 +20,10 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hathawaymadison58@gmail.com
   facebook:
   flickr:
-  github: 
+  github: mchathaway
   instagram:
   linkedin:
   pinterest:
