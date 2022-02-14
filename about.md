@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently working under Dr. Palandoken in his research group studying organic synthesis.
 
 ### Contact me
 
