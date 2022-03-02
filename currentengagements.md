@@ -6,11 +6,11 @@ permalink: /currentengagements/
 
 Currently working under Dr. Paladoken within his undergraduate organic sysnthesis research group.
 
+An active member in the national chemistry fraternety, Alpha Chi Sigma
+
+Works multiple jobs on campus at California Polytechnic State University, a general chemistry learning assistant and team memeber at Jamba Juice.
 
 
-### More Information
-
-Have worked under a number of managers at past and present jobs, including a pizza place, Jamba Juice, and as a Learning Assistant at Cal Poly.
 
 ### Contact me
 
