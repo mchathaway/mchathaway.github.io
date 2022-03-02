@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Current Engagements
 permalink: /currentengagements/
 ---
 
-Some information about you!
+Currently working under Dr. Paladoken within his undergraduate organic sysnthesis research group.
+
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Have worked under a number of managers at past and present jobs, including a pizza place, Jamba Juice, and as a Learning Assistant at Cal Poly.
 
 ### Contact me
 
-[mchathaw@calpoly.edu](mailto:armcdona@calpoly.edu)
+[mchathaw@calpoly.edu](mailto:mchathaw@calpoly.edu)
